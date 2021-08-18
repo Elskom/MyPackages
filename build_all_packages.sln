@@ -10,8 +10,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageManager", "MessageMa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniDump", "MiniDump\MiniDump.csproj", "{9C3AD73D-2828-4B6C-9073-A8FFE07C02B9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zlib.managed", "zlib.managed\zlib.managed.csproj", "{CAEBF5B2-7D31-4134-A64B-826FDF3C8FD2}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZipAssembly", "ZipAssembly\ZipAssembly.csproj", "{FFB8B106-438B-4BF6-AD0F-DDA46A1DFEE7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SettingsFile", "SettingsFile\SettingsFile.csproj", "{835F58D6-2FB7-446D-8913-E136978E8DB3}"
@@ -52,10 +50,6 @@ Global
 		{9C3AD73D-2828-4B6C-9073-A8FFE07C02B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C3AD73D-2828-4B6C-9073-A8FFE07C02B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C3AD73D-2828-4B6C-9073-A8FFE07C02B9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CAEBF5B2-7D31-4134-A64B-826FDF3C8FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CAEBF5B2-7D31-4134-A64B-826FDF3C8FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CAEBF5B2-7D31-4134-A64B-826FDF3C8FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CAEBF5B2-7D31-4134-A64B-826FDF3C8FD2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FFB8B106-438B-4BF6-AD0F-DDA46A1DFEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FFB8B106-438B-4BF6-AD0F-DDA46A1DFEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFB8B106-438B-4BF6-AD0F-DDA46A1DFEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU

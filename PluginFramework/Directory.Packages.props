@@ -1,7 +1,7 @@
 <Project>
 
   <ItemGroup>
-    <ProjectReference Include="../zlib.managed/zlib.managed.csproj" />
+    <PackageReference Include="zlib.managed" Version="*-*" />
     <ProjectReference Include="../SettingsFile/SettingsFile.csproj" />
   </ItemGroup>
 

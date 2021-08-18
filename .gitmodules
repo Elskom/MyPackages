@@ -1,4 +1,0 @@
-[submodule "zlib.managed"]
-	path = zlib.managed
-	url = https://github.com/Elskom/zlib.managed.git
-	branch = main

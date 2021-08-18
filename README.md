@@ -19,7 +19,6 @@ All of the project files to help with building plugins for Els_kom as well as fo
 | SettingsFile | [![NuGet Badge](https://buildstats.info/nuget/SettingsFile?includePreReleases=true)](https://www.nuget.org/packages/SettingsFile/) |
 | UnluacNET | [![NuGet Badge](https://buildstats.info/nuget/UnluacNET?includePreReleases=true)](https://www.nuget.org/packages/UnluacNET/) |
 | ZipAssembly | [![NuGet Badge](https://buildstats.info/nuget/ZipAssembly?includePreReleases=true)](https://www.nuget.org/packages/ZipAssembly/) |
-| zlib.managed | [![NuGet Badge](https://buildstats.info/nuget/zlib.managed?includePreReleases=true)](https://www.nuget.org/packages/zlib.managed/) |
 
 # Build Status
 
